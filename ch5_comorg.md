@@ -2,12 +2,13 @@
 
 สรุปเนื้อหาโครงสร้างและเทคโนโลยีของหน่วยความจำภายในคอมพิวเตอร์
 ## สารบัญ (Table of Contents)
-1. [5.1 Semiconductor Main Memory (หน่วยความจำหลักแบบเซมิคอนดักเตอร์)](#5.1-Semiconductor-Main-Memory-(หน่วยความจำหลักแบบเซมิคอนดักเตอร์))
-2. [5.2 Error Correction (การแก้ไขข้อผิดพลาด)](#5.2-Error-Correction-(การแก้ไขข้อผิดพลาด))
-3. [5.3 DDR DRAM (แรมแบบ DDR)](#5.3-DDR-DRAM-(แรมแบบ-DDR))
-4. [5.4 Flash Memory (หน่วยความจำแฟลช)](#5.4-Flash-Memory-(หน่วยความจำแฟลช))
-5. [5.5 Newer Nonvolatile Solid-State Memory Technologies](#5.5-Newer-Nonvolatile-Solid-State-Memory-Technologies)
-6. [5.6 Key Terms, Review Questions, and Problems](#5.6-Key-Terms,-Review-Questions,-and-Problems)
+## 📑 สารบัญ (Table of Contents)
+1. [5.1 Semiconductor Main Memory](#sec51)
+2. [5.2 Error Correction](#sec52)
+3. [5.3 DDR DRAM](#sec53)
+4. [5.4 Flash Memory](#sec54)
+5. [5.5 Newer Nonvolatile Solid-State Memory](#sec55)
+6. [5.6 Key Terms, Review Questions, and Problems](#sec56)
 
 ---
 
